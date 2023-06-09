@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FE-Mentor-huddle-landing-page](https://github.com/gymx/FE-Mentor-huddle-landing-page)
+- Live Site URL: [Github Pages site](https://gymx.github.io/FE-Mentor-huddle-landing-page/)
 
 ## My process
 
